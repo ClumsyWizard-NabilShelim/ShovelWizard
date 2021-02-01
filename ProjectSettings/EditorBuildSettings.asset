@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 543d771bbe61ec84fbe3c5b5e549effb
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: d1cb0dfbf621e6a41aac176c68f6d1ba
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 86c61f87164d97345b9be318ac854bcb
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: 334af1641420b1948aa3496ff79e9994
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: 2dd05b0a21093db4abc289d2c2060fe0
+  - enabled: 1
+    path: Assets/Scenes/Level_5.unity
+    guid: 1724a014eaacc634daa43b39ce502556
+  - enabled: 1
+    path: Assets/Scenes/Level_6.unity
+    guid: e310123134de7e6488d7244273a797c4
+  - enabled: 1
+    path: Assets/Scenes/Level_7.unity
+    guid: 1e1aa593faa900946be9c1fe709e2e09
+  - enabled: 1
+    path: Assets/Scenes/BossFight.unity
+    guid: 8c29a6a348b4d2b4ea41eca6a71a624b
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: a0146ce104c2ae040be18f68da2fb77f
+  - enabled: 1
+    path: Assets/Scenes/EndCredit.unity
+    guid: 428fdb42d96a7d64aa6e2d180851d050
+  m_configObjects: {}
